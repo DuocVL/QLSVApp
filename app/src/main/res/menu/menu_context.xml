@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/capNhat"
+        android:orderInCategory="100"
+        android:title="Cập nhật" />
+    <item
+        android:id="@+id/xoa"
+        android:orderInCategory="100"
+        android:title="Xóa" />
+    <item
+        android:id="@+id/phone"
+        android:orderInCategory="100"
+        android:title="Gọi điện" />
+    <item
+        android:id="@+id/email"
+        android:orderInCategory="100"
+        android:title="Gửi email" />
+</menu>
